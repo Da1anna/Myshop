@@ -1,0 +1,8 @@
+#文件夹
+.idea/
+素材/
+/migrations/
+shop_env/
+
+#文件
+*.sqlite3
